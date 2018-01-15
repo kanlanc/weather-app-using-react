@@ -1,0 +1,22 @@
+.weatherheader{
+    text-align: center;
+    letter-spacing: 5px;
+    margin: 40px auto;
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+form input{
+    padding:10px 90px;
+}
+
+form button{
+    margin: 20px;
+    padding:10px 150px;
+}
